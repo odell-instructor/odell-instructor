@@ -6,13 +6,11 @@
 
 </br>
 
-<a href="https://github.com/odell-instructor/github-readme-stats">
+
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=odell-instructor&theme=algolia&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/odell-instructor/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odell-instructor&theme=algolia&show" />
-</a>
-<a href=# src="https://img.shields.io/badge/JAVA-Fundamentals-B07219?style=for-the-badge&logo=appveyor"> </a>
+
+
 
 <!--
 
