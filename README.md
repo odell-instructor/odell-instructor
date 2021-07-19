@@ -6,10 +6,10 @@
 
 </br>
 
-
+<div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=odell-instructor&theme=algolia&show_icons=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odell-instructor&theme=algolia&show" />
-
+</div>
 
 
 <!--
